@@ -1,1 +1,2 @@
-Testing Repository
+This is my first app in c# windowsform.
+It's a simple calculator that does simple operations! :)
